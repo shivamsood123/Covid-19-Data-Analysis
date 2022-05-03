@@ -1,6 +1,8 @@
 # Covid-19-Data-Analysis
 Covid-19 Data Analysis using SQL and visualization using Tableau
 
+Dataset link: https://ourworldindata.org/covid-deaths
+
 Tableau Dashboard:
 
 ![Dashboard 1](https://user-images.githubusercontent.com/59047279/166466542-efb3bac0-b724-45a2-b7e7-d178e0c5bded.png)
