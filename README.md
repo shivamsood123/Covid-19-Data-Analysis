@@ -5,7 +5,8 @@ Dataset link: https://ourworldindata.org/covid-deaths
 
 Tableau Dashboard:
 
-![Dashboard 1](https://user-images.githubusercontent.com/59047279/166466542-efb3bac0-b724-45a2-b7e7-d178e0c5bded.png)
+![Dashboard 1 (2)](https://user-images.githubusercontent.com/59047279/168466669-fbcf4048-64fa-4f10-ae3f-9c1ee83a3ae3.png)
+
 
 Access Dashboard through below given link:
-https://public.tableau.com/app/profile/shivam.sood4822/viz/CovidAnalysisDashboard_16328061799370/Dashboard1
+https://public.tableau.com/app/profile/shivam.sood4822/viz/Covid19DataAnalysisDashboard/Dashboard1
